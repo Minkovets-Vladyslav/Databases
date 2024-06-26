@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "667bf0c23523b41aa26bdd47"
+  },
+  "group_code": "LAW301",
+  "faculty_code": "LAW"
+},
+{
+  "_id": {
+    "$oid": "667bf0c23523b41aa26bdd48"
+  },
+  "group_code": "MED401",
+  "faculty_code": "MED"
+},
+{
+  "_id": {
+    "$oid": "667bf0c23523b41aa26bdd49"
+  },
+  "group_code": "ART501",
+  "faculty_code": "ART"
+},
+{
+  "_id": {
+    "$oid": "667bf0c23523b41aa26bdd4a"
+  },
+  "group_code": "SCI601",
+  "faculty_code": "SCI"
+},
+{
+  "_id": {
+    "$oid": "667bf0c23523b41aa26bdd4b"
+  },
+  "group_code": "HUM701",
+  "faculty_code": "HUM"
+}]

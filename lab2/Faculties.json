@@ -1,0 +1,32 @@
+[
+  {
+    "faculty_code": "ENG",
+    "faculty_name": "Engineering",
+    "dean_phone": "123-456-7890",
+    "dean_full_name": "Dr. Alice Smith"
+  },
+  {
+    "faculty_code": "BUS",
+    "faculty_name": "Business",
+    "dean_phone": "234-567-8901",
+    "dean_full_name": "Dr. Bob Johnson"
+  },
+  {
+    "faculty_code": "LAW",
+    "faculty_name": "Law",
+    "dean_phone": "345-678-9012",
+    "dean_full_name": "Dr. Carol Williams"
+  },
+  {
+    "faculty_code": "MED",
+    "faculty_name": "Medicine",
+    "dean_phone": "456-789-0123",
+    "dean_full_name": "Dr. David Brown"
+  },
+  {
+    "faculty_code": "ART",
+    "faculty_name": "Arts",
+    "dean_phone": "567-890-1234",
+    "dean_full_name": "Dr. Eve Davis"
+  }
+]

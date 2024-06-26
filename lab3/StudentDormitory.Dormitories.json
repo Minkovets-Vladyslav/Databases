@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "667bf0ce3523b41aa26bdd4c"
+  },
+  "dormitory_number": 3,
+  "address": "789 Elm St, Hometown",
+  "phone": "012-345-6789",
+  "warden_full_name": "Mr. George King"
+},
+{
+  "_id": {
+    "$oid": "667bf0ce3523b41aa26bdd4d"
+  },
+  "dormitory_number": 4,
+  "address": "101 Spruce St, Hometown",
+  "phone": "123-456-7890",
+  "warden_full_name": "Mrs. Helen Queen"
+},
+{
+  "_id": {
+    "$oid": "667bf0ce3523b41aa26bdd4e"
+  },
+  "dormitory_number": 5,
+  "address": "202 Cedar St, Hometown",
+  "phone": "234-567-8901",
+  "warden_full_name": "Ms. Irene Prince"
+},
+{
+  "_id": {
+    "$oid": "667bf0ce3523b41aa26bdd4f"
+  },
+  "dormitory_number": 6,
+  "address": "303 Oak St, Hometown",
+  "phone": "345-678-9012",
+  "warden_full_name": "Mr. Jack Duke"
+},
+{
+  "_id": {
+    "$oid": "667bf0ce3523b41aa26bdd50"
+  },
+  "dormitory_number": 7,
+  "address": "404 Birch St, Hometown",
+  "phone": "456-789-0123",
+  "warden_full_name": "Mrs. Kate Baron"
+}]

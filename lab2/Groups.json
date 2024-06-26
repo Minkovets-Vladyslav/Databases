@@ -1,0 +1,22 @@
+[
+  {
+    "group_code": "ENG101",
+    "faculty_code": "ENG"
+  },
+  {
+    "group_code": "ENG102",
+    "faculty_code": "ENG"
+  },
+  {
+    "group_code": "BUS201",
+    "faculty_code": "BUS"
+  },
+  {
+    "group_code": "LAW301",
+    "faculty_code": "LAW"
+  },
+  {
+    "group_code": "MED401",
+    "faculty_code": "MED"
+  }
+]

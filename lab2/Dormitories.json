@@ -1,0 +1,42 @@
+[
+  {
+    "dormitory_number": 1,
+    "address": "456 College Ave",
+    "phone": "987-654-3210",
+    "commandant_full_name": "Mr. Bob Johnson",
+    "total_rooms": 100,
+    "occupied_rooms": 95
+  },
+  {
+    "dormitory_number": 2,
+    "address": "789 University Blvd",
+    "phone": "876-543-2109",
+    "commandant_full_name": "Ms. Carol Williams",
+    "total_rooms": 80,
+    "occupied_rooms": 70
+  },
+  {
+    "dormitory_number": 3,
+    "address": "123 Campus Dr",
+    "phone": "765-432-1098",
+    "commandant_full_name": "Mr. David Brown",
+    "total_rooms": 120,
+    "occupied_rooms": 110
+  },
+  {
+    "dormitory_number": 4,
+    "address": "321 Dormitory Ln",
+    "phone": "654-321-0987",
+    "commandant_full_name": "Mrs. Eve Davis",
+    "total_rooms": 90,
+    "occupied_rooms": 85
+  },
+  {
+    "dormitory_number": 5,
+    "address": "654 Housing St",
+    "phone": "543-210-9876",
+    "commandant_full_name": "Mr. Frank Miller",
+    "total_rooms": 70,
+    "occupied_rooms": 65
+  }
+]

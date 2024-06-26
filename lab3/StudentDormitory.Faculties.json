@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "667bea793523b41aa26bdd3b"
+  },
+  "faculty_code": "ENG",
+  "faculty_name": "Engineering",
+  "dean_phone": "123-456-7890",
+  "dean_full_name": "Dr. Alice Smith",
+  "groups": [
+    {
+      "group_code": "ENG101",
+      "group_name": "Engineering 101"
+    },
+    {
+      "group_code": "ENG102",
+      "group_name": "Engineering 102"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667bea793523b41aa26bdd3c"
+  },
+  "faculty_code": "BUS",
+  "faculty_name": "Business",
+  "dean_phone": "234-567-8901",
+  "dean_full_name": "Dr. Bob Johnson",
+  "groups": [
+    {
+      "group_code": "BUS201",
+      "group_name": "Business 201"
+    },
+    {
+      "group_code": "BUS202",
+      "group_name": "Business 202"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667bf0bb3523b41aa26bdd42"
+  },
+  "faculty_code": "LAW",
+  "faculty_name": "Law",
+  "dean_phone": "345-678-9012",
+  "dean_full_name": "Dr. Carol Thompson"
+},
+{
+  "_id": {
+    "$oid": "667bf0bb3523b41aa26bdd43"
+  },
+  "faculty_code": "MED",
+  "faculty_name": "Medicine",
+  "dean_phone": "456-789-0123",
+  "dean_full_name": "Dr. David White"
+},
+{
+  "_id": {
+    "$oid": "667bf0bb3523b41aa26bdd44"
+  },
+  "faculty_code": "ART",
+  "faculty_name": "Arts",
+  "dean_phone": "567-890-1234",
+  "dean_full_name": "Dr. Emily Green"
+},
+{
+  "_id": {
+    "$oid": "667bf0bb3523b41aa26bdd45"
+  },
+  "faculty_code": "SCI",
+  "faculty_name": "Science",
+  "dean_phone": "678-901-2345",
+  "dean_full_name": "Dr. Frank Black"
+},
+{
+  "_id": {
+    "$oid": "667bf0bb3523b41aa26bdd46"
+  },
+  "faculty_code": "HUM",
+  "faculty_name": "Humanities",
+  "dean_phone": "789-012-3456",
+  "dean_full_name": "Dr. Grace Blue"
+}]

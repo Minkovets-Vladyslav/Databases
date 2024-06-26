@@ -1,0 +1,52 @@
+[
+  {
+    "card_number": "001",
+    "full_name": "John Doe",
+    "date_of_birth": "2000-01-01T00:00:00Z",
+    "faculty": "Engineering",
+    "group": "ENG101",
+    "dormitory_number": 1,
+    "room_number": 101,
+    "parents_address": "123 Main St, Hometown"
+  },
+  {
+    "card_number": "002",
+    "full_name": "Jane Smith",
+    "date_of_birth": "2001-02-02T00:00:00Z",
+    "faculty": "Business",
+    "group": "BUS201",
+    "dormitory_number": 2,
+    "room_number": 202,
+    "parents_address": "456 Elm St, Hometown"
+  },
+  {
+    "card_number": "003",
+    "full_name": "Mike Johnson",
+    "date_of_birth": "1999-03-03T00:00:00Z",
+    "faculty": "Law",
+    "group": "LAW301",
+    "dormitory_number": 1,
+    "room_number": 103,
+    "parents_address": "789 Pine St, Hometown"
+  },
+  {
+    "card_number": "004",
+    "full_name": "Emily Davis",
+    "date_of_birth": "2002-04-04T00:00:00Z",
+    "faculty": "Medicine",
+    "group": "MED401",
+    "dormitory_number": 3,
+    "room_number": 304,
+    "parents_address": "321 Oak St, Hometown"
+  },
+  {
+    "card_number": "005",
+    "full_name": "William Brown",
+    "date_of_birth": "2000-05-05T00:00:00Z",
+    "faculty": "Engineering",
+    "group": "ENG102",
+    "dormitory_number": 2,
+    "room_number": 205,
+    "parents_address": "654 Maple St, Hometown"
+  }
+]

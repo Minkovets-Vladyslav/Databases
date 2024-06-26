@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "667bea6d3523b41aa26bdd39"
+  },
+  "card_number": "PC001",
+  "full_name": "John Doe",
+  "date_of_birth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "faculty": "Engineering",
+  "group": "ENG101",
+  "dormitory_number": 1,
+  "room_number": 101,
+  "parents_address": "123 Main St, Hometown",
+  "personal_card": {
+    "card_number": "PC001",
+    "issued_date": {
+      "$date": "2020-09-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "667bea6d3523b41aa26bdd3a"
+  },
+  "card_number": "PC002",
+  "full_name": "Jane Smith",
+  "date_of_birth": {
+    "$date": "2001-02-02T00:00:00.000Z"
+  },
+  "faculty": "Business",
+  "group": "BUS201",
+  "dormitory_number": 2,
+  "room_number": 202,
+  "parents_address": "456 Elm St, Hometown",
+  "personal_card": {
+    "card_number": "PC002",
+    "issued_date": {
+      "$date": "2020-09-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "667bf0af3523b41aa26bdd3d"
+  },
+  "card_number": "PC003",
+  "full_name": "Alice Johnson",
+  "date_of_birth": {
+    "$date": "2002-03-03T00:00:00.000Z"
+  },
+  "faculty": "Engineering",
+  "group": "ENG102",
+  "dormitory_number": 1,
+  "room_number": 102,
+  "parents_address": "789 Oak St, Hometown"
+},
+{
+  "_id": {
+    "$oid": "667bf0af3523b41aa26bdd3e"
+  },
+  "card_number": "PC004",
+  "full_name": "Bob Brown",
+  "date_of_birth": {
+    "$date": "2003-04-04T00:00:00.000Z"
+  },
+  "faculty": "Business",
+  "group": "BUS202",
+  "dormitory_number": 2,
+  "room_number": 203,
+  "parents_address": "101 Pine St, Hometown"
+},
+{
+  "_id": {
+    "$oid": "667bf0af3523b41aa26bdd3f"
+  },
+  "card_number": "PC005",
+  "full_name": "Charlie Davis",
+  "date_of_birth": {
+    "$date": "2004-05-05T00:00:00.000Z"
+  },
+  "faculty": "Law",
+  "group": "LAW301",
+  "dormitory_number": 3,
+  "room_number": 301,
+  "parents_address": "202 Birch St, Hometown"
+},
+{
+  "_id": {
+    "$oid": "667bf0af3523b41aa26bdd40"
+  },
+  "card_number": "PC006",
+  "full_name": "Diana Evans",
+  "date_of_birth": {
+    "$date": "2005-06-06T00:00:00.000Z"
+  },
+  "faculty": "Medicine",
+  "group": "MED401",
+  "dormitory_number": 4,
+  "room_number": 401,
+  "parents_address": "303 Cedar St, Hometown"
+},
+{
+  "_id": {
+    "$oid": "667bf0af3523b41aa26bdd41"
+  },
+  "card_number": "PC007",
+  "full_name": "Evan Foster",
+  "date_of_birth": {
+    "$date": "2006-07-07T00:00:00.000Z"
+  },
+  "faculty": "Arts",
+  "group": "ART501",
+  "dormitory_number": 5,
+  "room_number": 501,
+  "parents_address": "404 Maple St, Hometown"
+}]
